@@ -6,6 +6,7 @@
 Dataset contains 3019 rows and 7 columns. It's a time series data and each row is a unique date.
 
 We choose "Open" column for prediction
+
 ![p](sample/stock.png)
 
 ### Data Preprocessing
